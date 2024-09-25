@@ -46,6 +46,12 @@
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%230d1117.svg?style=for-the-badge&logo=kubernetes"/>   
 </p>
 
+<p align="justify">
+    <img alt="Quasar" src="https://img.shields.io/badge/quasar-%230d1117.svg?style=for-the-badge&logo=quasar"/>
+    <img alt="Ionic" src="https://img.shields.io/badge/ionic-%230d1117.svg?style=for-the-badge&logo=ionic"/>
+    <img alt="Android" src="https://img.shields.io/badge/android-%230d1117.svg?style=for-the-badge&logo=android"/>
+    <img alt="iOS" src="https://img.shields.io/badge/ios-%230d1117.svg?style=for-the-badge&logo=apple"/>
+</p>
 
 # Socials
 <p align="justify">
